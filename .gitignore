@@ -1,0 +1,11 @@
+# Ignore compiled class files
+*.class
+
+# Ignore directories that may store compiled files
+/bin/
+/build/
+
+# Ignore VS Code specific files
+.vscode/
+.settings/
+.history/
