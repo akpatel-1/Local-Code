@@ -3,7 +3,7 @@ public class Static {
         // Calling static method without an object
         Static2.staticMethod();
         
-        // Calling instance method requires creating an object
+        // Calling instance method needs object
         Static2 object = new Static2();
         object.instanceMethod();
         object.staticMethod();
