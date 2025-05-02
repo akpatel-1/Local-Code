@@ -42,7 +42,7 @@ Each primitive type has a corresponding wrapper class:
 Primitive Type	Wrapper Class
 byte	Byte
 short	Short
-int	Integer
+int	    Integer
 long	Long
 float	Float
 double	Double
