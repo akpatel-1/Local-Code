@@ -23,9 +23,9 @@ LEARNING
 Type conversion in Java refers to changing a value from one data type to another. Java supports two types of type conversion:
 
 1. Implicit Type Conversion (Widening)
-Happens automatically when converting a smaller data type to a larger one.
-No data loss occurs.
-✔ Allowed: byte → short → int → long → float → double ❌ Not Allowed: Converting from a larger type to a smaller one (may cause data loss).
+Happens automatically when converting a smaller data type to a larger one. No data loss occurs.
+✔ Allowed: byte → short → int → long → float → double  
+Converting from a larger type to a smaller one ❌ Not Allowed(may cause data loss).
 
 2. Explicit Type Conversion (Narrowing / Type Casting)
 Done manually using type casting.
