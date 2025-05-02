@@ -20,3 +20,6 @@ public class Datatypes {
         System.out.println("double: " + Double.BYTES + " bytes");
     }
 }
+
+// LEARNING
+//BYTES is a constant available in wrapper classes like Byte, Short, Integer, Character, Long, Float, and Double. It represents the size of the datatype in bytes. (.SIZE OUTPUTS IN BITS)

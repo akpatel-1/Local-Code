@@ -5,7 +5,8 @@ public class Sum{
     }
 }
 
-// LEARNING
-//In Java, if either side of the + operator is a String, Java treats the whole expression as a string concatenation.
+/* LEARNING
 
-//This is Java's operator overloading: the + operator is used for both addition and string joining, depending on the types involved.
+In Java, if either side of the + operator is a String, Java treats the whole expression as a string concatenation.
+
+This is Java's operator overloading: the + operator is used for both addition and string joining, depending on the types involved. */
