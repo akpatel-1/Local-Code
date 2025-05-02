@@ -9,3 +9,9 @@ public class Area{
         scan.close();
     }
 }
+
+/*
+LEARNING
+By default, decimal numbers in Java are interpreted as double.
+Adding f (3.14159265359f) tells Java to treat it as a float.
+ */
