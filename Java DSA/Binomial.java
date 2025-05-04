@@ -10,6 +10,6 @@ public class Binomial{
         return getFactorial(n) / (getFactorial(r) * getFactorial(n-r));
     }
     public static void main(String[] args){
-        System.out.println(getBinomial(5,2));
+        System.out.println("Binomial is " + getBinomial(5,2));
     }
 }

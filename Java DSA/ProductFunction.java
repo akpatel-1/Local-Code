@@ -10,6 +10,4 @@ public class ProductFunction {
 
 /* 🌟Learning
 In Java, you can't call an instance method directly from a static context (like main) unless you create an object of the class.
-
-
  */
