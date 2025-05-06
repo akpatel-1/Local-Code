@@ -11,7 +11,7 @@ public class InsertionSort {
             array[i] = scan.nextInt();
         }
         getInsertionSort(array);
-        System.out.print("Bubble sorted array: ");
+        System.out.print("Insertion sorted array: ");
         display(array);
         scan.close(); 
     }
