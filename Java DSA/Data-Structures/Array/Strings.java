@@ -6,5 +6,6 @@ public class Strings{
         System.out.print("Enter your name: ");
         String name = scan.nextLine();
         System.out.println(name);
+        scan.close();
     }
 }

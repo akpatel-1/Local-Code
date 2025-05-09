@@ -5,6 +5,7 @@ public class Palindrome {
         System.out.print("Enter a String: ");
         String str = scan.next();
         System.out.println("is " + str + " palindrome: " + isPalindrome(str));
+        scan.close;
     }
     public static boolean isPalindrome(String str){
         int n = str.length();

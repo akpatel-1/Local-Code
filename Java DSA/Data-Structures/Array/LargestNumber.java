@@ -1,4 +1,3 @@
-import java.util.*;
 public class LargestNumber{
     public static void main(String[] main){
         int max = Integer.MIN_VALUE;
