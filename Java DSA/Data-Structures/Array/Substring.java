@@ -17,6 +17,6 @@ public class Substring {
         // }
         // return temp;
 
-        return str.substring(start, end);
+         return str.substring(start, end);
     }
 }
