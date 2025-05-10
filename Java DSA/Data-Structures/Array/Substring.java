@@ -11,10 +11,12 @@ public class Substring {
         scan.close();
     }
     public static String getSubstring(String str, int start, int end){
-        String temp = "";
-        for(int i=start-1; i<end; i++){
-            temp += str.charAt(i);
-        }
-        return temp;
+        // String temp = "";
+        // for(int i=start-1; i<end; i++){
+        //     temp += str.charAt(i);
+        // }
+        // return temp;
+
+        return str.substring(start, end);
     }
 }
