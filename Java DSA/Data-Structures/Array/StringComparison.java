@@ -29,7 +29,7 @@ public class StringComparison {
 }
 
 /* LEARNING
-== checks reference equality (same object in memory)  //memory add. comparison
+== checks reference equality (same object in memory)  //memory address comparison
 .equals() checks value/content equality //value comparison
 
 The String Constant Pool (or string intern pool) is a section of memory where Java stores unique string literals. If two string literals have the same value, Java will reuse the same object instead of creating a new one.
