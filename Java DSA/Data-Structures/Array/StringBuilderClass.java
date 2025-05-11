@@ -2,8 +2,12 @@ import java.util.*;
 public class StringBuilderClass {
     public static void main(String[] args) {
         StringBuilder str = new StringBuilder("Aksh");
+        StringBuilder str2 = str;
+        str.append(" patel");
         System.out.println(str.getClass().getName());
         System.out.println(((Object)str.toString()).getClass().getName());
+        System.out.println(str);
+        System.out.println(str2);
     }
 }
 
