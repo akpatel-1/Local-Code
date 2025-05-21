@@ -16,5 +16,3 @@ Examples of DBMS: MySQL, Oracle, MongoDB, etc.
 
 # SQL(Structured Query Language)
 SQL is a standardized programming language used for managing and manipulating relational databases. It allows users to perform various operations on the data stored in a database ex. CRUD operations.
-
-     
